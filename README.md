@@ -1,6 +1,8 @@
 # AmplifiersApiNoSQL
 
-Api conectado a Cosmos DB (Azure) usando MongoDB y JWT para gestionar la autentificación
+Es un proyecto API WEB que se conecta una base de datos Cosmos DB (Azure) usando MongoDB y JWT para gestionar la autentificación
+
+Este proyecto te puede servir de ejemplo para construir tu propia API
 
 Esta Api tiene dos controladores, a continuación, enlistare cada uno de sus metodos con sus rutas de acceso
 
